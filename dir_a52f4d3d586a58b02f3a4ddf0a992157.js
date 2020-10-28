@@ -5,6 +5,7 @@ var dir_a52f4d3d586a58b02f3a4ddf0a992157 =
     [ "collatz.c", "dc/d80/collatz_8c.html", "dc/d80/collatz_8c" ],
     [ "factorial_large_number.c", "d6/d3d/factorial__large__number_8c.html", "d6/d3d/factorial__large__number_8c" ],
     [ "fibonacci_fast.c", "d4/d99/fibonacci__fast_8c.html", "d4/d99/fibonacci__fast_8c" ],
+    [ "fibonacci_triangle.c", "d6/dab/fibonacci__triangle_8c.html", "d6/dab/fibonacci__triangle_8c" ],
     [ "palindrome.c", "df/d16/palindrome_8c.html", "df/d16/palindrome_8c" ],
     [ "poly_add.c", "d0/dcb/poly__add_8c.html", "d0/dcb/poly__add_8c" ],
     [ "prime.c", "da/d93/prime_8c.html", "da/d93/prime_8c" ],

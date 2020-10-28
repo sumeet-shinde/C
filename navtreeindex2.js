@@ -1,5 +1,9 @@
 var NAVTREEINDEX2 =
 {
+"d8/d32/problem__25_2sol1_8c.html#abe5bc1f170b2108a19d0a16d30bd3235":[15,0,10,13,0,4],
+"d8/d32/problem__25_2sol1_8c.html#af9729befaffc1aab9ac9fedc4706e66c":[15,0,10,13,0,1],
+"d8/d38/queue_8h_source.html":[15,0,2,4,1],
+"d8/d71/group__k__means.html":[13,2,1],
 "d8/d71/group__k__means.html#ga8cc0f5e9645e6faf40d1746acf777944":[15,0,7,1,2],
 "d8/d71/group__k__means.html#gabe256d797c00b793041eac33f07804c1":[15,0,7,1,1],
 "d8/d71/group__k__means.html#gad229b1dc406cb5ea510f26a373ed8bfd":[15,0,7,1,5],
@@ -88,10 +92,10 @@ var NAVTREEINDEX2 =
 "da/d56/problem__1_2sol3_8c.html":[15,0,10,0,2],
 "da/d56/problem__1_2sol3_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[15,0,10,0,2,0],
 "da/d90/stack__linked__list_2stack_8h_source.html":[15,0,2,8,0,0],
-"da/d93/prime_8c.html":[15,0,8,7],
-"da/d93/prime_8c.html#a6384596f117decd77da25af95ab1704f":[15,0,8,7,0],
-"da/d93/prime_8c.html#ae1a3968e7947464bee7714f6d43b7002":[15,0,8,7,2],
-"da/d93/prime_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[15,0,8,7,1],
+"da/d93/prime_8c.html":[15,0,8,8],
+"da/d93/prime_8c.html#a6384596f117decd77da25af95ab1704f":[15,0,8,8,0],
+"da/d93/prime_8c.html#ae1a3968e7947464bee7714f6d43b7002":[15,0,8,8,2],
+"da/d93/prime_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[15,0,8,8,1],
 "da/d9b/struct_trie_node.html":[14,0,38],
 "da/d9b/struct_trie_node.html#a8e9e3ac8a47ed2f730476945933722c1":[14,0,38,0],
 "da/d9b/struct_trie_node.html#a9dc2a9bc247486fac3e4b350c73a3060":[14,0,38,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "de/d0c/insertion__sort__recursive_8c.html#ac0f2228420376f4db7e1274f2b41667c":[15,0,12,4,0],
 "de/d20/md_data_structures_dictionary__r_e_a_d_m_e.html":[5],
 "de/d20/md_data_structures_dictionary__r_e_a_d_m_e.html#autotoc_md34":[0],
-"de/d58/structquaternion__.html":[13,0,7,0],
-"de/d58/structquaternion__.html#a2ce1409f1d683aa40eade31d60ded530":[13,0,7,0,4],
-"de/d58/structquaternion__.html#a37819eb7d76c65c37a9c2a63f01f65b2":[13,0,7,0,1],
-"de/d58/structquaternion__.html#a3b00276b56da72911199baf48814b3f6":[13,0,7,0,2],
-"de/d58/structquaternion__.html#a596abbab688731119c1f23b26a7ac17a":[13,0,7,0,0]
+"de/d58/structquaternion__.html":[13,0,7,0]
 };

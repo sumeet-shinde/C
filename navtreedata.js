@@ -120,8 +120,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/dd4/struct_graph.html#a268ba18d421817ad8713c2e92f19d82a",
-"d8/d71/group__k__means.html#ga8cc0f5e9645e6faf40d1746acf777944",
-"de/d58/structquaternion__.html#a627574208aad1215fde8fcf9cb3f36e4"
+"d8/d32/problem__25_2sol1_8c.html#abe5bc1f170b2108a19d0a16d30bd3235",
+"de/d58/structquaternion__.html#a2ce1409f1d683aa40eade31d60ded530"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
